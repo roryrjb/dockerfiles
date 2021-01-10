@@ -1,3 +1,5 @@
+# vim: ft=Dockerfile
+
 FROM ubuntu:groovy
 ENV DEBIAN_FRONTEND noninteractive
 
